@@ -2122,40 +2122,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nasa1\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/daoduc/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nasa1\\Desktop\\Project_Group1\\PL_Console\\PL_Console.csproj",
+      "projectUniqueName": "/media/daoduc/DAOVANDUC/Teach/Final Project/Project_Group1/PL_Console/PL_Console.csproj",
       "projectName": "PL_Console",
-      "projectPath": "C:\\Users\\nasa1\\Desktop\\Project_Group1\\PL_Console\\PL_Console.csproj",
-      "packagesPath": "C:\\Users\\nasa1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nasa1\\Desktop\\Project_Group1\\PL_Console\\obj\\",
+      "projectPath": "/media/daoduc/DAOVANDUC/Teach/Final Project/Project_Group1/PL_Console/PL_Console.csproj",
+      "packagesPath": "/home/daoduc/.nuget/packages/",
+      "outputPath": "/media/daoduc/DAOVANDUC/Teach/Final Project/Project_Group1/PL_Console/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\nasa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/daoduc/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\nasa1\\Desktop\\Project_Group1\\BL\\BL.csproj": {
-              "projectPath": "C:\\Users\\nasa1\\Desktop\\Project_Group1\\BL\\BL.csproj"
+            "/media/daoduc/DAOVANDUC/Teach/Final Project/Project_Group1/BL/BL.csproj": {
+              "projectPath": "/media/daoduc/DAOVANDUC/Teach/Final Project/Project_Group1/BL/BL.csproj"
             },
-            "C:\\Users\\nasa1\\Desktop\\Project_Group1\\Persitence\\Persitence.csproj": {
-              "projectPath": "C:\\Users\\nasa1\\Desktop\\Project_Group1\\Persitence\\Persitence.csproj"
+            "/media/daoduc/DAOVANDUC/Teach/Final Project/Project_Group1/Persitence/Persitence.csproj": {
+              "projectPath": "/media/daoduc/DAOVANDUC/Teach/Final Project/Project_Group1/Persitence/Persitence.csproj"
             }
           }
         }
